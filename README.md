@@ -36,8 +36,13 @@ I'm currently working on several projects aimed at enhancing system security and
 - **[Malware Analysis Lab with pfSense](https://github.com/cahallchristopher/malware-lab)**  
    *A guide to setting up a secure environment for malware analysis, focusing on network segmentation and security best practices.*
 
-- **[Windows Server 2019 Guide](https://github.com/cahallchristopher/windows-server-guide)**  
+- **[Windows Server 2019 Guide](https://github.com/cahallchristopher/windows-server-guide)**
    *Step-by-step instructions for mastering Active Directory and user management.*
+
+- **[Setting Up a Pentesting Lab with ISC DHCP Server](#setting-up-a-pentesting-lab-with-isc-dhcp-server)**  *(Link to this section below)*
+
+---
+
 
 ---
 
